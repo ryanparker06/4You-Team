@@ -11,9 +11,9 @@ window.SITE_CONFIG = {
     footer: ""             // Optional: override the footer's Back to Top link
   },
   projects: {
-    bump4you: { image: "", link: "", invite: "", support: "", docs: "" },
-    banana: { image: "", link: "", invite: "", support: "", docs: "" },
-    ticket4you: { image: "", link: "", invite: "", support: "", docs: "" }
+    bump4you: { image: "assets/Bump4You-Logo.png", link: "", invite: "", support: "", docs: "" },
+    banana: { image: "assets/Banana.png", link: "", invite: "", support: "", docs: "" },
+    ticket4you: { image: "assets/Ticket4You-Logo.png", link: "", invite: "", support: "", docs: "" }
   },
   team: {
     ryan: { image: "", profile: "" },
